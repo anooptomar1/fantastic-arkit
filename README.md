@@ -8,6 +8,8 @@
 
 - [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) Code examples for ARKit.
 - [arkit-shell-game](https://github.com/handsomecode/arkit-shell-game) Shell Game built with ARKit and SceneKit
+- [ARTetris](https://github.com/exyte/ARTetris) Augmented Reality Tetris made with ARKit and SceneKit
+- [ARShooter](https://github.com/farice/ARShooter) A demo Augmented Reality shooter made with ARKit in Swift (iOS 11)
 
 ## Posts
 
