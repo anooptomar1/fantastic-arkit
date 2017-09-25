@@ -17,3 +17,4 @@
 - [ARKit: Tool or Toy](https://medium.com/@ugiacoman/arkit-tool-or-toy-bbaf8cd70338)
 - [ARKit + Vision: An intriguing combination](https://dev.to/osterbergjordan/arkit--vision-an-intriguing-combination)
 - [ARKit and CoreLocation: Part One](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-one-fc7cb2fa0150)
+- [ARKit: A Noob's Guide](http://arvindravi.com/posts/arkit-a-noobs-guide-part-one)
