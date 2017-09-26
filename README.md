@@ -10,6 +10,8 @@
 - [arkit-shell-game](https://github.com/handsomecode/arkit-shell-game) Shell Game built with ARKit and SceneKit
 - [ARTetris](https://github.com/exyte/ARTetris) Augmented Reality Tetris made with ARKit and SceneKit
 - [ARShooter](https://github.com/farice/ARShooter) A demo Augmented Reality shooter made with ARKit in Swift (iOS 11)
+- [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) Well known game Snake written in Swift using ARKit.
+- [arkit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) Tic-Tac-Toe implemented using ARKit+Scenekit
 
 ## Posts
 
